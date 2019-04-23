@@ -7,7 +7,6 @@ class Polynomial{
 	
 public:
 
-	
 	Polynomial(int = 0);
 	Polynomial(int, double*);
 	Polynomial(const Polynomial&);
@@ -19,6 +18,6 @@ public:
 	Polynomial operator=(const Polynomial&);
 	~Polynomial();
 
-	/*Polynomial(int = 0);
-	void setCoEfee();*/
+	//   THE CODE BELOW COULD BE USED IF JUST THE DEGREE HAS TO BE PASSED TO THE CONSTRUCTOR
+	/*void setCoEfee();*/
 };

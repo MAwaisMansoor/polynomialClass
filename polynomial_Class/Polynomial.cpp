@@ -165,7 +165,7 @@ Polynomial::~Polynomial() {
 
 
 
-
+//   THE CODE BELOW COULD BE USED IF JUST THE DEGREE HAS TO BE PASSED TO THE CONSTRUCTOR
 
 /*constructor which takes degree as argument
 Polynomial::Polynomial(int d) {

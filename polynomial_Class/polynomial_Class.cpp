@@ -49,6 +49,7 @@ int main(){
 	delete p3;
 	delete p4;
 
+	//   THE CODE BELOW COULD BE USED IF JUST THE DEGREE HAS TO BE PASSED TO THE CONSTRUCTOR
 	//Polynomial* p1 = new Polynomial(1);
 	//Polynomial* p2 = new Polynomial(1);
 
